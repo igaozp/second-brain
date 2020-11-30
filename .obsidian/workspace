@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "29bdb3e5d461470d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f63114b7f2adef19",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "《编程之道》 (Tao of Programming) 十三则.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72d11e6c6a2ff139",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef9b84d2a01dd3dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62697829da69d903",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e42799023be0d9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84cf81a25d182116",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 403
+  },
+  "right": {
+    "id": "87253b4a4bc8401d",
+    "type": "split",
+    "children": [
+      {
+        "id": "26823f45ad3c3c2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b951e4790a8cd0e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "《编程之道》 (Tao of Programming) 十三则.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d50b10f7990e7911",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "128ba1d3b58e3c8e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "《编程之道》 (Tao of Programming) 十三则.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "《编程之道》 (Tao of Programming) 十三则.md",
+    "《编程之道》 (Tao of Programming) 笔记.md",
+    "Untitled.md"
+  ]
+}
