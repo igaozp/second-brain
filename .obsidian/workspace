@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "计算机基础理论.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "计算机基础理论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +91,9 @@
             "type": "leaf",
             "state": {
               "type": "tag",
-              "state": {}
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           },
           {
@@ -95,21 +101,26 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "计算机基础理论.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
+    "计算机基础理论.md",
     "Untitled.md",
+    "分布式事务相关资料.md",
     "多线程、协程、异步、响应式、非阻塞相关资料整理.md",
+    "《编程之道》 (Tao of Programming) 十三则.md",
     "多线程、协程、异步、响应式、非阻塞.md",
     "并发、多线程、协程、异步、响应式、非阻塞.md",
-    "《编程之道》 (Tao of Programming) 十三则.md",
     "《编程之道》 (Tao of Programming) 笔记.md"
   ]
 }
