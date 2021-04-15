@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4311df38d92f133c",
+        "id": "7a9c63ffc84a1af4",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "计算机底层.md",
-            "mode": "preview"
+            "file": "分税制.md",
+            "mode": "source"
           }
         }
       }
@@ -40,8 +39,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "tag:#tag分税制",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -77,10 +76,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机底层.md",
+                "file": "分税制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -92,7 +93,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
@@ -102,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机底层.md"
+                "file": "分税制.md"
               }
             }
           }
@@ -110,16 +112,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
+  "active": "7a9c63ffc84a1af4",
   "lastOpenFiles": [
-    "计算机底层.md",
-    "Untitled.md",
-    "计算机基础理论.md",
+    "分税制.md",
     "分布式事务相关资料.md",
-    "多线程、协程、异步、响应式、非阻塞相关资料整理.md",
+    "Untitled.md",
     "《编程之道》 (Tao of Programming) 十三则.md",
+    "多线程、协程、异步、响应式、非阻塞相关资料整理.md",
+    "计算机底层.md",
+    "计算机基础理论.md",
     "多线程、协程、异步、响应式、非阻塞.md",
     "并发、多线程、协程、异步、响应式、非阻塞.md",
     "《编程之道》 (Tao of Programming) 笔记.md"
